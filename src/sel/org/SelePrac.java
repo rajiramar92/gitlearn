@@ -51,6 +51,8 @@ public class SelePrac {
 
 			}
 			System.out.println(count);
+			System.out.println(a);
+			
 		}
         
         
