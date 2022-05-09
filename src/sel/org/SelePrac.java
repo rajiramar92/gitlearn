@@ -54,9 +54,17 @@ public class SelePrac {
 		}
         
         
+        private void method() {
+        	System.out.println("");
+        	
+        	
+		}
         
-        
-        
+        private void method2() {
+        	System.out.println("");
+        	
+        	
+		}
 			
 		}
   
